@@ -1,0 +1,25 @@
+model,dataset,horizon,normalisation,MSE,MAE
+Autoformer-MS,exchange_rate.csv,96,Adaptive,0.133 ± 0.000,0.270 ± 0.000
+Autoformer-MS,exchange_rate.csv,96,Fixed,0.133 ± 0.000,0.270 ± 0.000
+Autoformer-MS,exchange_rate.csv,96,Forced,0.133 ± 0.000,0.270 ± 0.000
+Autoformer-MS,exchange_rate.csv,192,Adaptive,0.247 ± 0.002,0.372 ± 0.001
+Autoformer-MS,exchange_rate.csv,192,Fixed,0.248 ± 0.002,0.373 ± 0.000
+Autoformer-MS,exchange_rate.csv,192,Forced,0.248 ± 0.003,0.373 ± 0.002
+Autoformer-MS,exchange_rate_original.csv,96,Adaptive,0.106 ± 0.002,0.238 ± 0.003
+Autoformer-MS,exchange_rate_original.csv,96,Fixed,0.107 ± 0.001,0.239 ± 0.002
+Autoformer-MS,exchange_rate_original.csv,96,Forced,0.106 ± 0.001,0.238 ± 0.001
+Autoformer-MS,exchange_rate_original.csv,192,Adaptive,0.158 ± 0.000,0.303 ± 0.000
+Autoformer-MS,exchange_rate_original.csv,192,Fixed,0.158 ± 0.000,0.304 ± 0.000
+Autoformer-MS,exchange_rate_original.csv,192,Forced,0.158 ± 0.000,0.303 ± 0.000
+Informer-MS,exchange_rate.csv,96,Adaptive,0.236 ± 0.069,0.347 ± 0.049
+Informer-MS,exchange_rate.csv,96,Fixed,0.261 ± 0.001,0.366 ± 0.001
+Informer-MS,exchange_rate.csv,96,Forced,0.258 ± 0.005,0.364 ± 0.003
+Informer-MS,exchange_rate.csv,192,Adaptive,0.259 ± 0.001,0.402 ± 0.001
+Informer-MS,exchange_rate.csv,192,Fixed,0.259 ± 0.001,0.402 ± 0.001
+Informer-MS,exchange_rate.csv,192,Forced,0.259 ± 0.001,0.401 ± 0.001
+Informer-MS,exchange_rate_original.csv,96,Adaptive,0.120 ± 0.001,0.242 ± 0.001
+Informer-MS,exchange_rate_original.csv,96,Fixed,0.120 ± 0.001,0.242 ± 0.001
+Informer-MS,exchange_rate_original.csv,96,Forced,0.120 ± 0.000,0.241 ± 0.001
+Informer-MS,exchange_rate_original.csv,192,Adaptive,0.337 ± 0.007,0.414 ± 0.005
+Informer-MS,exchange_rate_original.csv,192,Fixed,0.336 ± 0.008,0.414 ± 0.005
+Informer-MS,exchange_rate_original.csv,192,Forced,0.338 ± 0.007,0.415 ± 0.005
