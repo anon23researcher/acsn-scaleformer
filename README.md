@@ -85,6 +85,17 @@ ACSN diagnostics:
 
 ---
 
+---
+
+## Acknowledgement
+
+This repository builds upon publicly available implementations of transformer-based time-series forecasting architectures.
+
+Adapted in part from:
+- Scaleformer: https://github.com/BorealisAI/scaleformer
+
+---
+
 ## Citation
 
 If you use this code, please cite:
