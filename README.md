@@ -96,17 +96,6 @@ Adapted in part from:
 
 ---
 
-## Citation
-
-If you use this code, please cite:
-
-    @article{acsn2026,
-      title={Is Normalization Necessary in Multi-Scale Exchange-Rate Forecasting?},
-      author={Aboagye, N.},
-      year={2026}
-    }
-
----
 
 ## License
 
