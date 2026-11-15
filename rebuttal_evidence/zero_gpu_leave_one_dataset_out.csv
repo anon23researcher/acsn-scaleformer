@@ -1,0 +1,10 @@
+analysis,dataset_removed,pearson_r
+all,electricity,0.28062517928640224
+all,exchange_rate,0.4126931203868776
+all,national_illness,0.3802030889572739
+all,traffic,0.35169512972208195
+all,weather,0.2609995714118539
+without_exchange_rate,electricity,0.385499708930769
+without_exchange_rate,national_illness,0.4075926654999637
+without_exchange_rate,traffic,0.4686093877629838
+without_exchange_rate,weather,0.3856962032296034
